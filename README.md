@@ -3,10 +3,6 @@
 
 ---
 
-### :man_technologist: Обо мне:
-
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с самостоятельного обучения после завершения обучения в колледже Искал для себя наиболее интересное направление и больше всего меня зацепила веб разработка! Прошел курс в Яндекс Практикуме.
-
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
