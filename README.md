@@ -9,7 +9,7 @@
 <!-- TYPING ANIMATION -->
 <br><br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Строю+продукты+от+идеи+до+production;Один.+Быстро.+На+совесть.;Fullstack+%7C+DevOps+%7C+AI-assisted+dev" alt="Typing SVG"/></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=%D0%A1%D1%82%D1%80%D0%BE%D1%8E+%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B+%D0%BE%D1%82+%D0%B8%D0%B4%D0%B5%D0%B8+%D0%B4%D0%BE+production;%D0%9E%D0%B4%D0%B8%D0%BD.+%D0%91%D1%8B%D1%81%D1%82%D1%80%D0%BE.+%D0%9D%D0%B0+%D1%81%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D1%8C.;Fullstack+%7C+DevOps+%7C+AI-assisted+dev" alt="Typing SVG"/>
 
 <br><br>
 
@@ -31,11 +31,7 @@
 
 <!-- SNAKE ANIMATION -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NikitaAkmaikin/NikitaAkmaikin/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NikitaAkmaikin/NikitaAkmaikin/output/github-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/NikitaAkmaikin/NikitaAkmaikin/output/github-snake.svg" alt="Snake animation"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/NikitaAkmaikin/NikitaAkmaikin/output/github-snake.gif" alt="Snake animation"/>
 </p>
 
 ---
@@ -167,7 +163,7 @@ Real-time уведомления (SSE/WebSocket), автоматические �
 
 <p align="center">
   <a href="https://github.com/NikitaAkmaikin">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=NikitaAkmaikin&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=238636&currStreakLabel=1f6feb" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=NikitaAkmaikin&theme=transparent&hide_border=true&border_radius=0&ring=1f6feb&fire=238636&currStreakLabel=1f6feb&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
   </a>
 </p>
 
@@ -181,7 +177,7 @@ Real-time уведомления (SSE/WebSocket), автоматические �
 <!-- TROPHIES -->
 <p align="center">
   <a href="https://github.com/NikitaAkmaikin">
-    <img src="https://github-profile-trophy.vercel.app/?username=NikitaAkmaikin&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=NikitaAkmaikin&theme=transparent&no-frame=true&no-bg=true&column=7&margin-w=5&title_color=1f6feb&icon_color=238636&text_color=c9d1d9" alt="GitHub Trophies"/>
   </a>
 </p>
 
