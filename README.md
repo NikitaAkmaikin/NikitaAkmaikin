@@ -32,9 +32,9 @@
 <!-- SNAKE ANIMATION -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NikitaAkmaikin/NikitaAkmaikin-/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NikitaAkmaikin/NikitaAkmaikin-/output/github-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/NikitaAkmaikin/NikitaAkmaikin-/output/github-snake.svg" alt="Snake animation"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NikitaAkmaikin/NikitaAkmaikin/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NikitaAkmaikin/NikitaAkmaikin/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/NikitaAkmaikin/NikitaAkmaikin/output/github-snake.svg" alt="Snake animation"/>
   </picture>
 </p>
 
@@ -156,23 +156,33 @@ Real-time уведомления (SSE/WebSocket), автоматические �
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikitaAkmaikin&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=1f6feb&icon_color=238636&text_color=c9d1d9" height="180" alt="GitHub Stats"/>
+  <a href="https://github.com/NikitaAkmaikin">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NikitaAkmaikin&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=1f6feb&icon_color=238636&text_color=c9d1d9&cache_seconds=86400" height="180" alt="GitHub Stats"/>
+  </a>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaAkmaikin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&text_color=c9d1d9" height="180" alt="Top Languages"/>
+  <a href="https://github.com/NikitaAkmaikin">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NikitaAkmaikin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&text_color=c9d1d9&cache_seconds=86400" height="180" alt="Top Languages"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NikitaAkmaikin&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=238636&currStreakLabel=1f6feb" alt="GitHub Streak"/>
+  <a href="https://github.com/NikitaAkmaikin">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=NikitaAkmaikin&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=238636&currStreakLabel=1f6feb" alt="GitHub Streak"/>
+  </a>
 </p>
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NikitaAkmaikin&bg_color=0d1117&color=c9d1d9&line=1f6feb&point=238636&area=true&area_color=1f6feb&hide_border=true" alt="Activity Graph" width="100%"/>
+  <a href="https://github.com/NikitaAkmaikin">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NikitaAkmaikin&bg_color=0d1117&color=c9d1d9&line=1f6feb&point=238636&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%"/>
+  </a>
 </p>
 
 <!-- TROPHIES -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NikitaAkmaikin&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies"/>
+  <a href="https://github.com/NikitaAkmaikin">
+    <img src="https://github-profile-trophy.vercel.app/?username=NikitaAkmaikin&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies"/>
+  </a>
 </p>
 
 ---
