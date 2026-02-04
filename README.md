@@ -31,7 +31,7 @@
 
 <!-- SNAKE ANIMATION -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NikitaAkmaikin/NikitaAkmaikin/output/github-snake.gif" alt="Snake animation"/>
+  <img src="./assets/github-snake.svg" alt="Snake animation"/>
 </p>
 
 ---
@@ -55,28 +55,28 @@
 </tr>
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,vite&perline=2" alt="frontend"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,vite&perline=2&theme=dark" alt="frontend"/>
 <br><br>
 <code>MobX</code> <code>Zustand</code>
 <br>
 <code>Storybook</code>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma&perline=2" alt="backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma&perline=2&theme=dark" alt="backend"/>
 <br><br>
 <code>Socket.io</code> <code>SSE</code>
 <br>
 <code>REST</code> <code>JWT</code>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&perline=3" alt="data"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&perline=3&theme=dark" alt="data"/>
 <br><br>
 <code>Prisma ORM</code>
 <br>
 <code>PL/SQL</code>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=docker,nginx,linux,githubactions&perline=2" alt="devops"/>
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,githubactions&perline=2&theme=dark" alt="devops"/>
 <br><br>
 <code>CI/CD</code> <code>DockerHub</code>
 <br>
@@ -161,23 +161,10 @@ Real-time уведомления (SSE/WebSocket), автоматические �
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/NikitaAkmaikin">
-    <img src="https://streak-stats.demolab.com?user=NikitaAkmaikin&theme=transparent&hide_border=true&border_radius=0&ring=1f6feb&fire=238636&currStreakLabel=1f6feb&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-  </a>
-</p>
-
 <!-- ACTIVITY GRAPH -->
 <p align="center">
   <a href="https://github.com/NikitaAkmaikin">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=NikitaAkmaikin&bg_color=0d1117&color=c9d1d9&line=1f6feb&point=238636&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%"/>
-  </a>
-</p>
-
-<!-- TROPHIES -->
-<p align="center">
-  <a href="https://github.com/NikitaAkmaikin">
-    <img src="https://github-profile-trophy.vercel.app/?username=NikitaAkmaikin&theme=transparent&no-frame=true&no-bg=true&column=7&margin-w=5&title_color=1f6feb&icon_color=238636&text_color=c9d1d9" alt="GitHub Trophies"/>
   </a>
 </p>
 
