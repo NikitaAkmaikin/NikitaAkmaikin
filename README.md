@@ -149,7 +149,7 @@ Real-time уведомления (SSE/WebSocket), автоматические �
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub & Codewars
 
 <p align="center">
   <a href="https://github.com/NikitaAkmaikin">
@@ -158,6 +158,13 @@ Real-time уведомления (SSE/WebSocket), автоматические �
   &nbsp;&nbsp;
   <a href="https://github.com/NikitaAkmaikin">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NikitaAkmaikin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&text_color=c9d1d9&cache_seconds=86400" height="180" alt="Top Languages"/>
+  </a>
+</p>
+
+<!-- CODEWARS -->
+<p align="center">
+  <a href="https://www.codewars.com/users/FRILANSERxxx">
+    <img src="https://www.codewars.com/users/FRILANSERxxx/badges/large" alt="Codewars"/>
   </a>
 </p>
 
